@@ -1,0 +1,12 @@
+Get-Command
+Get-Help
+Set-ExecutionPolicy
+Get-Service
+ConvertTo-HTML
+Get-EventLog
+Get-Process
+Clear-History
+Where-Object
+Add-Content
+Copy-Item
+Remove-Item
