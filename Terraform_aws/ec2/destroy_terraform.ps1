@@ -1,1 +1,1 @@
-﻿terraform destroy --auto-approve
+﻿terraform destroy -var-file input.tfvars --auto-approve
