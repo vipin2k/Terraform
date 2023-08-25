@@ -1,7 +1,7 @@
 region = "ap-south-1"
 private_key_algorithm = "RSA"
 private_key_bits = "4096"
-key_pair_name = "key_name"
+key_pair_name = "key_name_01"
 ec2_instances_ami_name = "ami-0f5ee92e2d63afc18"
 ec2_instance_type = "t2.micro"
 tag_name = "demo_ec2"
